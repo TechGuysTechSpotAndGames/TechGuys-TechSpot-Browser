@@ -1,0 +1,8 @@
+J:\other\development\TechGuys TechSpot Browser\Browser\TechGuys TechSpot Browser\TechGuys TechSpot Browser\bin\Release\TechGuys TechSpot Browser.exe
+J:\other\development\TechGuys TechSpot Browser\Browser\TechGuys TechSpot Browser\TechGuys TechSpot Browser\bin\Release\TechGuys TechSpot Browser.pdb
+J:\other\development\TechGuys TechSpot Browser\Browser\TechGuys TechSpot Browser\TechGuys TechSpot Browser\obj\x86\Release\TechGuys_TechSpot_Browser.Form1.resources
+J:\other\development\TechGuys TechSpot Browser\Browser\TechGuys TechSpot Browser\TechGuys TechSpot Browser\obj\x86\Release\TechGuys_TechSpot_Browser.Properties.Resources.resources
+J:\other\development\TechGuys TechSpot Browser\Browser\TechGuys TechSpot Browser\TechGuys TechSpot Browser\obj\x86\Release\TechGuys TechSpot Browser.csproj.GenerateResource.Cache
+J:\other\development\TechGuys TechSpot Browser\Browser\TechGuys TechSpot Browser\TechGuys TechSpot Browser\obj\x86\Release\TechGuys TechSpot Browser.exe.licenses
+J:\other\development\TechGuys TechSpot Browser\Browser\TechGuys TechSpot Browser\TechGuys TechSpot Browser\obj\x86\Release\TechGuys TechSpot Browser.exe
+J:\other\development\TechGuys TechSpot Browser\Browser\TechGuys TechSpot Browser\TechGuys TechSpot Browser\obj\x86\Release\TechGuys TechSpot Browser.pdb
